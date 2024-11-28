@@ -1,5 +1,4 @@
 # 안녕
 ## Week 9
 ### 수정 06
-sample1: Week 11 pull request
-sample2 conflict: week13
+sample2: Week 13 conflict 
